@@ -383,4 +383,4 @@ async def on_message(message):
         )
 # safe version
 
-bot.run('MTMwOTI3MzQ3MjUwOTQxMTQ0MQ.GyYMU9.C8S7bgStdBlHmT2m4Tc14mRlfHSrzbt06d5wnk')
+bot.run('BOT_TOKEN')
